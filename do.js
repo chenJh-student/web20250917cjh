@@ -1,0 +1,1 @@
+a = confirm("are you sure you want to delete this file")
